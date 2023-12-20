@@ -1,6 +1,12 @@
 #Ben {
     color: red;
     background-color: yellow;
-}#cecile:hover{
+}
+
+#cecile:hover{
     color: red;
 }
+
+.mot-hover {
+    color: black; /* Couleur par défaut du mot */
+  }
